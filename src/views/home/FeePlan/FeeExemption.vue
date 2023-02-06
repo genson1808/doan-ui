@@ -574,7 +574,7 @@ const headersViewByFee = [
     left: 0;
     height: 18px;
     width: 18px;
-    background-image: url(@/assets/Icons/ic_Ratio_inactive.svg);
+    background-image: url(@/assets/Icons/ic_Ratio_Inactive.svg);
   }
 
   & input:checked ~ .checkmark {

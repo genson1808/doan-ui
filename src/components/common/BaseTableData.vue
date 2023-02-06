@@ -269,7 +269,7 @@ const handleProperty = (cb, defaultValue) => {
   background-size: 24px 24px;
 
   &:hover {
-    background-image: url(@/assets/Icons/ic_remove_hover.svg);
+    background-image: url(@/assets/Icons/ic_Remove_Hover.svg);
     background-repeat: no-repeat;
     background-size: 24px 24px;
   }
