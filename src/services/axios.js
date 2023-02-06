@@ -9,7 +9,7 @@ export const HTTP = axios.create({
 });
 
 export const HTTPR = axios.create({
-  baseURL: "https://rogger1808.xyz/",
+  baseURL: "https://rogger1808.xyz",
   headers: {
     "Content-Type": "application/json;charset=UTF-8",
     "Access-Control-Allow-Origin": "*",
